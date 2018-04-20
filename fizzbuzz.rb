@@ -1,4 +1,4 @@
 
-def fizzbuzz(3)
+def fizzbuzz()
   
 end
